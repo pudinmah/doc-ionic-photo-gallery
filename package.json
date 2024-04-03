@@ -23,6 +23,7 @@
     "@angular/router": "^17.0.2",
     "@capacitor/core": "5.7.4",
     "@ionic/angular": "^7.0.0",
+    "@ionic/pwa-elements": "^3.2.2",
     "ionicons": "^7.0.0",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
